@@ -1,0 +1,3 @@
+Primeira linha de texto armazenada.
+Aprendendo a manipular arquivos em Python.
+Linha final registrada com sucesso.
